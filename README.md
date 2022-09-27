@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋 
 
-<!--
-**codedbychavez/codedbychavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Chavez Harris (codedbychavez). It's nice to meet you. 
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a student and experimenter of life and code. Learning and trying code is something I really enjoy and this has been a never-ending journey for me.
+
+## Latest Experiments
+
+Get the latest code experiments from [my lab](https://github.com/orgs/codedbychavez-labs/repositories) 
+
+## Collaborations
+
+Collaborations are welcome 🙌
