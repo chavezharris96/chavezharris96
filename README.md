@@ -13,6 +13,6 @@ About me... I enjoy reading books and coding. How did I get into code? During my
 - [vue3-googleapis](https://www.npmjs.com/package/vue3-googleapis) - A wrapper plugin for adding the Google API JavaScript client to your Vue3 application. This plugin is an upgrade to https://www.npmjs.com/package/vue-googleapis
 - [configcat-vue](https://www.npmjs.com/package/configcat-vue) - A simple and easy to use Vue3 plugin for using ConfigCat Feature Flags in your Vue.js Application
 
-## My website
+## My Blog
 
 **[codedbychavez.com](https://codedbychavez.com)**
