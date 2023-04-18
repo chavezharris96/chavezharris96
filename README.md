@@ -2,7 +2,7 @@
 
 I'm Chavez Harris (codedbychavez). It's nice to meet you. 
 
-## About me
+## About Me
 
 About me... I enjoy reading books and coding. How did I get into code? During my career as an IT Technician at a local mall in my city. Ever since my journey has been consistent. I picked up most of what I know today while working on projects and reading. Not perfect, I'm still learning and teaching myself new coding techniques.
 
