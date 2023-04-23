@@ -19,6 +19,6 @@ About me... I enjoy reading books and coding. How did I get into code? During my
 
 ## My Blog
 
-I spend some of spare time writing blog articles. Check them out below!
+I spend some of my spare time writing blog articles. Check them out below!
 
 **[codedbychavez.com](https://codedbychavez.com)**
