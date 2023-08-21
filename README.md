@@ -1,6 +1,6 @@
-# Hello World! 👋 
+# Hi all! 👋 
 
-I'm Chavez Harris (codedbychavez). It's nice to meet you. 
+Nice to meet you. 
 
 ## About Me
 
