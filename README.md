@@ -21,4 +21,4 @@ About me... I enjoy reading books and coding. How did I get into code? During my
 
 I spend some of my spare time writing blog articles. Check them out below!
 
-**[codedbychavez.com](https://codedbychavez.com)**
+**[chavezharris.com](https://chavezharris.com)**
